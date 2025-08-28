@@ -34,7 +34,7 @@ Demonstrar o uso prático do Azure Speech Studio e Language Studio para transcri
         - That's Bitcoin and nothing else.
         - It's really meant to act as like a digital gold and eventually act as the base layer for a new monetary system.
    - Sentimento: Neutral: 90% (Confidence: 8%)  
-        - Apesar do 90% do conteúdo ter sido em neutro, a ferramenta atribuiu apenas 8% de confiança a esse resultado, a causa muito provavelmente se dá a ambiguidade das colocações do texto analisado.
+        - Apesar de 90% do conteúdo ter sido em neutro, a ferramenta atribuiu apenas 8% de confiança a esse resultado, a causa muito provavelmente se dá a ambiguidade das colocações do texto analisado.
 
 ## Aprendizados
 
